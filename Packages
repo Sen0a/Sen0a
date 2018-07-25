@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.alexzielenski.zeppelin.deb
+Version: 2.1.0-12
+Section: Tweaks
+Maintainer: Sen0a
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.alexzielenski.zeppelin.deb
+Size: 954352
+MD5sum: b2306aca6cc4afe7ccc57210c98c0612
+Description: 
+Name: Zeppelin
+Author: Alex Zielenski
+Depiction: https://Sen0a.github.io/Sen0a/depictions/zeppelin
